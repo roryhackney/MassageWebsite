@@ -1,5 +1,5 @@
-# designprocess
-My process designing and then coding a website for a massage therapist in IT171, Theory of Web Design
+# MassageWebsite
+My process designing and then coding a website for a massage therapist.
 
 Feedback not provided until after design study was created based on wireframes. Feedback was then incorporated into the prototype and live site.
 
